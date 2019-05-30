@@ -5,7 +5,7 @@ Tareas hechas para programacion Web
 <center><title>Trabajos hechos de tarea</title></center>
 </head>
 
-<table border="3" cellpadding="5">
+<table border="4" cellpadding="6">
 		<tbody><tr bgcolor="#A5AEB0">
 			<td>Trabajos</td>
 			<td>enlaces</td>
@@ -27,7 +27,7 @@ Tareas hechas para programacion Web
 			<td><a href="practica 4.html">criba</a></td>
 		</tr>
       
-      <tr bgcolor="#A5AEB0">
+        	<tr bgcolor="#A5AEB0">
 		<td>Scriba</td>
 			<td><a href="index.html">criba</a></td>
 		</tr>
