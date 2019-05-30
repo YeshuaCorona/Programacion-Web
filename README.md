@@ -5,40 +5,30 @@ Tareas hechas para programacion Web
 <center><title>Trabajos hechos de tarea</title></center>
 </head>
 
-<table class="egt">
-
-<tr>
-
-<th>Practicas de Html</th>
-
-</tr>
-
-  <tr>
-
-    <td>Pratica 1</td>
-
-    <td>Practica 2</td>
-
-    <td>Practica 3</td>
-
-    <td>Practica 4</td>
-
-    <td>Practica 5</td>
-
-  </tr>
-
-  <tr>
-
-    <td>  <a href="practica 1 corona.html"></a></td>
-
-    <td> <a href="Curriculum Corona.html"></a></td>
-
-    <td> <a href="practica 3.html"></a></td>
-
-    <td>  <a href="index.html"></a></td>
-
-    <td>  <a href="practica 5.html"></a></td>
-
-  </tr>
-
-</table>
+<table border="3" cellpadding="5">
+		<tbody><tr bgcolor="#A5AEB0">
+			<td>Trabajos</td>
+			<td>enlaces</td>
+		</tr>
+		<tr bgcolor="#A5AEB0">
+			<td>textos</td>
+			<td><a href="practica 1 corona.html">Estilos de Texto</a></td>
+		</tr>
+		<tr bgcolor="#A5AEB0">
+			<td>Curriculum</td>
+			<td><a href="Curriculum corona.html">Marcado</a></td>
+		</tr>
+		<tr bgcolor="#A5AEB0">
+			<td>horario</td>
+			<td><a href="practica 3.html">Tablas avanzadas</a></td>
+		</tr>
+		<tr bgcolor="#A5AEB0">
+		<td>curriculum con js</td>
+			<td><a href="practica 4.html">criba</a></td>
+		</tr>
+      
+      <tr bgcolor="#A5AEB0">
+		<td>Scriba</td>
+			<td><a href="index.html">criba</a></td>
+		</tr>
+	</tbody></table>
