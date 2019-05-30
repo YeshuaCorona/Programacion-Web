@@ -24,11 +24,10 @@ Tareas hechas para programacion Web
 		</tr>
 		<tr bgcolor="#A5AEB0">
 		<td>curriculum con js</td>
-			<td><a href="practica 4.html">criba</a></td>
+			<td><a href="index.html">criba</a></td>
 		</tr>
-      
         	<tr bgcolor="#A5AEB0">
 		<td>Scriba</td>
-			<td><a href="index.html">criba</a></td>
+			<td><a href="Practica 5.html">criba</a></td>
 		</tr>
 	</tbody></table>
