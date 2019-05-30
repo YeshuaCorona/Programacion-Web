@@ -5,7 +5,7 @@ Tareas hechas para programacion Web
 <center><title>Trabajos hechos de tarea</title></center>
 </head>
 
-<table border="4" cellpadding="6">
+<table border="3" cellpadding="5">
 		<tbody><tr bgcolor="#A5AEB0">
 			<td>Trabajos</td>
 			<td>enlaces</td>
