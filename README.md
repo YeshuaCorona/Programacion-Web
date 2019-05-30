@@ -2,7 +2,7 @@
 Tareas hechas para programacion Web
 
 <html> <head>
-<center><title>https://github.com/YeshuaCorona/Programacion-Weba</title></center>
+<center><title> https://github.com/YeshuaCorona/Programacion-Weba  </title></center>
 </head>
 
 <table border="3" cellpadding="5">
